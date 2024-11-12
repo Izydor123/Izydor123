@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kuba</h1>
-<h3 align="center">A best developer from Poland</h3>
+<h3 align="center">A best developer from Poland(no)</h3>
 
 - 🔭 I’m currently working on **Hack Heroes Project**
 
