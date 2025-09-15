@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kuba</h1>
 <h3 align="center">A best developer from Poland(no)</h3>
 
-- 🔭 I’m currently working on **Hack Heroes Project**
+- 🔭 I’m currently working on exatly nothing
 
-- 🌱 I’m currently learning **Python with Flask Framework**
+- 🌱 I’m currently learning how to operate on filez in Pyton🐍🐍🐍🐍🐍
 
 - 📫 How to reach me **djqyubi@gmail.com**
 
