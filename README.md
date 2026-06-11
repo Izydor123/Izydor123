@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kuba</h1>
 <h3 align="center">A best developer from Poland(no)</h3>
 
-- 🔭 I’m currently working on exatly nothing
+- 🔭 I’m currently working on getting a job.
 
-- 🌱 I’m currently learning how to operate on filez in Pyton🐍🐍🐍🐍🐍
+- 🌱 I’m currently learning the proccess of getting a job.
 
 - 📫 How to reach me **djqyubi@gmail.com**
 
