@@ -1,11 +1,55 @@
-<h1 align="center">Hi 👋, I'm Kuba</h1>
-<h3 align="center">A best developer from Poland(no)</h3>
+# Cześć, jestem Jakub Kubieniec 👋
 
-- 🔭 I’m currently working on getting a job.
+Technik Programista, obecnie student **Inżynierii Matematyki i Analizy Danych** na Politechnice Wrocławskiej.
 
-- 🌱 I’m currently learning the proccess of getting a job.
+📍 Kowary, Polska
+📧 kubieniecjakub5@gmail.com
 
-- 📫 How to reach me **djqyubi@gmail.com**
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🎓 Wykształcenie
+
+- **Inżynier Matematyki i Analizy Danych** (studia I stopnia) — Politechnika Wrocławska, Wrocław *(2026 – teraz)*
+- **Technik Programista** — Zespół Szkół Elektronicznych, Jelenia Góra *(2021 – 2026)*
+
+## 💼 Doświadczenie zawodowe
+
+- **Cristovão Rocha — Praktyki Erasmus+** *(marzec – kwiecień 2025)*
+  Projektowanie i programowanie stron internetowych, tworzenie reklam cyfrowych produktów firmy.
+- **Compan IT — Praktyki zawodowe** *(listopad – grudzień 2023)*
+  Serwis podzespołów serwerowych, inwentaryzacja sprzętu informatycznego.
+
+## 🛠️ Języki programowania i narzędzia
+
+| Technologia | Poziom |
+|---|---|
+| HTML / CSS / SQL | Średniozaawansowany |
+| Python | Średniozaawansowany |
+| JavaScript | Podstawowy |
+| PHP | Podstawowy |
+| C++ | Podstawowy |
+
+**Narzędzia:** MS Office, Administracja serwerem DB
+
+## 📚 Kursy i szkolenia
+
+- Fundacja VCC — Tworzenie witryn internetowych *(10.2022 – 12.2022)*
+- USKI-Polska — E-learningowa Strefa Skutecznej Nauki *(11.2022 – 06.2023)*
+
+## 🌍 Języki obce
+
+- Angielski — B2
+
+## ✨ Cechy osobiste
+
+- Kreatywność i pomysłowość
+- Szybkie przyswajanie wiedzy
+- Wytrwałość w dążeniu do celu
+
+## 🎯 Zainteresowania
+
+Informatyka i nowe technologie · Kultura i media (książki, seriale, muzyka, gry) · Motoryzacja
+
+---
+
+📬 Skontaktuj się ze mną: **kubieniecjakub5@gmail.com** | 📱 519 117 103
